@@ -1,0 +1,30 @@
+body {
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+}
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.card-primary {
+    background: blue;
+    margin-bottom: 2px;
+}
+
+.card-success {
+    background: green;
+    margin-bottom: 2px;
+}
+
+.card-danger {
+    background: red;
+    margin-bottom: 2px;
+}
+
+.card-block {
+    margin: 5px 5px;
+}
